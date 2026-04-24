@@ -1,7 +1,7 @@
 # Task Tracker CLI
 
 A command-line task management tool written in Go. Tasks are stored locally in a JSON file with no external dependencies.
-
+*This project was built as a solution to the [roadmap.sh Task Tracker challenge](https://roadmap.sh/projects/task-tracker).*
 ---
 
 ## Features
@@ -13,7 +13,7 @@ A command-line task management tool written in Go. Tasks are stored locally in a
 
 ---
 
-## Installation
+## InstallationGE
 
 Clone the repository and build the binary:
 
@@ -100,6 +100,8 @@ Tasks are saved in a `tasks.json` file in the current working directory. The fil
 
 - Go 1.18 or later
 - No external libraries required
+---
 
+## Acknowledgments
 
-https://roadmap.sh/projects/task-tracker
+Project idea and requirements provided by [roadmap.sh/projects](https://roadmap.sh/projects/task-tracker)
